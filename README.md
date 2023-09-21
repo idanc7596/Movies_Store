@@ -10,18 +10,9 @@ Client side is written in React, while server side is written with Spring.
 ## Explanations
 <p>
 The regular search (according to string) is in the "Search" page, <br>
-<b>while the search according to the other two attributes (genres and release year) <br>
-is in a separate page called "Discover".</b>
+while the search according to the other two attributes (genres and release year) <br>
+is in a separate page called "Discover".
 </p>
-
-<div>
-The search in the Discover page is done according to the following two attributes:
-<ul>
-<li>genres</li>
-<li>release year</li>
-</ul>
-(you can search by one of them or both combined).
-</div>
 
 ## Running the project
 In order to run the project make sure to:
