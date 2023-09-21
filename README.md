@@ -1,11 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/7Tmn2VQK)
-
 # Movies Store
 a modern e-commerce website that allows customers to browse movies, add them to a cart, and complete a purchase.
 Using TMDB (The Movies DB) api to browse the movies.
 Client side is written in React, while server side is written with Spring.
 
 ## Demonstration
+https://github.com/idanc7596/Movies_Store/assets/48062272/3029cbc2-07dc-4e9b-858c-9d9ca976658a
 
 ## Explanations
 <p>
