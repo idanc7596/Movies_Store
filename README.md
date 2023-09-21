@@ -7,7 +7,7 @@ Client side is written in React, while server side is written with Spring.
 
 ## Demonstration
 
-## Explanations:
+## Explanations
 <p>
 The regular search (according to string) is in the "Search" page, <br>
 <b>while the search according to the other two attributes (genres and release year) <br>
@@ -23,7 +23,7 @@ The search in the Discover page is done according to the following two attribute
 (you can search by one of them or both combined).
 </div>
 
-# Running the project
+## Running the project
 In order to run the project make sure to:
 1. Run the SQL server and create a database named "ex4". 
 2. Initializing the React client (movie-app) - Open a terminal in *movie-app* and run `npm install` and then `npm start`. You should see the client running on http://localhost:3000.
